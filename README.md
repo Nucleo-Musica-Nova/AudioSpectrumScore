@@ -13,17 +13,16 @@ Installation: In the directory containing the main.py script and the requirement
 ``` bash
 python3 -m pip install -r requirements.txt
 ```
+**Obs.:** Windows users should use `python` instead of `python3`.
 
-For Windows users, replace python3 with python.
+* Prepare Audio Files: Copy all the audio files that you want to analyze and convert into the same directory as the main.py script.
 
-Prepare Audio Files: Copy all the audio files that you want to analyze and convert into the same directory as the main.py script.
-
-Run the Script: From the directory containing main.py, execute the script by running the following command:
+* Run the Script: From the directory containing main.py, execute the script by running the following command:
 
 ``` bash
 python3 main.py
 ```
-Windows users should use python instead of python3.
+**Obs.:** Windows users should use `python` instead of `python3`.
 
 ## Output
 
