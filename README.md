@@ -28,4 +28,3 @@ python3 main.py
 
 The script will process each audio file, analyze its main partials, and create a visual representation of these partials in a musical score. The resulting scores will be saved as PNG files in a subfolder named "pictures."
 
-Enjoy using the Sound-to-Score Converter!
