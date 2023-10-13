@@ -12,7 +12,7 @@ Installation: In the directory containing the main.py script and the requirement
 
 ``` bash
 python3 -m pip install -r requirements.txt
-``
+```
 
 For Windows users, replace python3 with python.
 
@@ -22,7 +22,7 @@ Run the Script: From the directory containing main.py, execute the script by run
 
 ``` bash
 python3 main.py
-``
+```
 Windows users should use python instead of python3.
 
 ## Output
